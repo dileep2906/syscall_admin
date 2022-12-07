@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "url": "dashboard",
+      "name": "Dashboard",
+      "icon": "home",
+      "slug": "dashboard"
+    },{
+      "url": "users",
+      "name": "Users List",
+      "icon": "users",
+      "slug": "user"
+    },{
+      "url": "clients",
+      "name": "Clients List",
+      "icon": "user-plus",
+      "slug": "clients"
+    },{
+      "url": "returns",
+      "name": "VAT Returns List",
+      "icon": "list",
+      "slug": "returns"
+    },{
+      "url": "refunds",
+      "name": "VAT Refunds List",
+      "icon": "package",
+      "slug": "refunds"
+    }
+  ]
+}

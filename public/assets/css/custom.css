@@ -1,0 +1,172 @@
+.category-card img {
+
+    width: 50px;
+
+    padding-bottom: 25px;
+
+}
+
+.why-choose-img {
+
+    background-image: url(../img/why.choose.jpg);
+
+    background-position: center center;
+
+    background-size: cover;
+
+    height: 77% !important;
+
+}
+
+.navbar-brand{
+
+    width: 110px;
+
+
+
+}
+
+.footer-logo{
+
+    width: 110px;
+
+}
+
+.banner-section {
+
+    background-image: url(../../assets/img/banner.jpg) !important;
+
+}
+
+.d-table-cell {
+
+    display: table-cell;
+
+    vertical-align: inherit;
+
+}
+
+.navbar-area .h3 {
+
+    color: white;
+
+}
+
+.use-section {
+
+    background-image: url(../img/mission.jpg);
+
+}
+
+
+
+.page-title.title-bg1 {
+
+    background-image: url(../img/busines.jpg);
+
+}
+
+.page-title.title-bg23 {
+
+    background-image: url(../img/About1.jpg);
+
+}
+
+
+
+.contact-card: hover i {
+
+    background: #fd1616;
+
+    color: #ffffff;
+
+}
+
+
+
+.navbar-brand h3{
+
+    color: #fff;
+
+    text-align: center;
+
+    text-transform: initial;
+
+}
+
+
+
+.company-logo img {
+
+    height: 120px;
+
+}
+
+
+
+.testimonial-section{
+
+    background-image: url(../img/about-bg.jpg);
+
+}
+
+
+
+.navbar-area .main-nav{
+
+    padding: 0 0;
+
+}
+
+.navbarSupportedContent.bx bxs-phone{
+
+    float: right;
+
+}
+
+
+
+.navbarSupportedContent .bx bxs-envelope{
+
+    float: right;
+
+}
+
+.category-card{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    min-height: 230px;
+}
+
+@media (max-width:767px) {
+    .mobile-nav .logo {
+        right: 15px;
+        left: auto;
+        width: 70px;
+        top: 0px;
+    }
+    .mobile-nav h3{
+        font-size:12px;
+        text-align: center;
+    }
+    .mean-container .mean-nav ul li a {
+        text-align: left;
+    }
+}
+.job-card .job-info ul li{
+    display: block;
+}
+.job-card-two .job-info ul li i{
+    margin-right: 10px;
+}
+.job-details-text .details-text ul li{
+    margin-left: 40px;
+    list-style: disc;
+}
+.page-title title-bg6 {
+    background-image: url(../img/busines.jpg) !important
+}
+.job-card-two .job-info ul li {
+    display: block;
+    
+}
